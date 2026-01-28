@@ -1,0 +1,9 @@
+{
+    "kaggle_bot_dataset": "A:/Supervised learning/Data/archive (2)/bot_detection_data.csv",
+    "twibot20_train": "A:/Supervised learning/Data/archive (1)/train.json",
+    "twibot20_dev": "A:/Supervised learning/Data/archive (1)/dev.json",
+    "twibot20_test": "A:/Supervised learning/Data/archive (1)/test.json",
+    "twibot22_path": "A:/Supervised learning/Data/TwiBot-22-master/TwiBot-22-master",
+    "mgstbot_path": "A:/Supervised learning/Data/MGStBot-large/MGStBot-large",
+    "cresci15_path": "A:/Supervised learning/Data/Cresci-15/Cresci-15"
+}
