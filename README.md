@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Bot Detection](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm94bW94bW94bW94bW94bW94bW94bW94bW94bW94bQ/QtdR67kH8s9P6/giphy.gif)
+![Bot Detection](https://media.giphy.com/media/l41lUjUgLLwWp63L2/giphy.gif)
 
 > *Identifying the synthetic from the organic in the digital age.*
 
